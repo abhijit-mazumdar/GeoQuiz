@@ -1,2 +1,2 @@
 # GeoQuiz
-Simple True/False quiz app that shows Toast
+Simple True/False quiz Android app that shows Toast
